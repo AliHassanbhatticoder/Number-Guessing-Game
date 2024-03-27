@@ -1,0 +1,25 @@
+{
+  "name": "alihassanbhattiii786-number-guessing-game",
+  "version": "2.0.4",
+  "description": "Welcome to the My new Project number guessing games.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "number-guessing-game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alihassan",
+  "license": "ISC",
+  "dependencies": {
+    "alihassanbhattiii786-number-guessing-game": "^2.0.4",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
